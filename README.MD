@@ -318,8 +318,6 @@ For questions, issues, or suggestions:
 
 <div align="center">
 
-**Made with ❤️ at the Kafka Workshop**
-
 *Transform your streaming data into actionable insights*
 
 </div>
